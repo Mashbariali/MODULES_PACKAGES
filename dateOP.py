@@ -1,6 +1,11 @@
 
 from datetime import date
-today = date.today()
-print ("Current date : ",today)
+
+def Current_date():
+
+   today = date.today()
+   print ("Current date : ",today)
+
+
 
 

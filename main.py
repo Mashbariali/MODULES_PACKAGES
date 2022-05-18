@@ -1,2 +1,2 @@
 import dateOP 
-print(dateOP)
+print(dateOP.Current_date())
