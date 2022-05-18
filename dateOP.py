@@ -1,4 +1,6 @@
-import datetime
-now = datetime.datetime.now()
-print ("Current date : ")
-print (now.strftime("%Y-%m-%d"))
+
+from datetime import date
+today = date.today()
+print ("Current date : ",today)
+
+
